@@ -4,12 +4,12 @@
 
 ## 下载
 
-到右侧 [Releases](https://github.com/JustinaHodges/ea-monitor-releases/releases) 下载最新 ZIP：
+最新版：[Releases v2026.10.18](https://github.com/JustinaHodges/ea-monitor-releases/releases/tag/v2026.10.18)
 
-| 包 | 用途 |
-|----|------|
-| 四季常春监控-云端封闭版.zip | 有服务器 / 域名 |
-| 四季常春监控-本机封闭版.zip | 本机 / 局域网 |
+| 文件 | 用途 |
+|------|------|
+| [ea-monitor-cloud-closed.zip](https://github.com/JustinaHodges/ea-monitor-releases/releases/download/v2026.10.18/ea-monitor-cloud-closed.zip) | 云端 / 域名服务器 |
+| [ea-monitor-local-closed.zip](https://github.com/JustinaHodges/ea-monitor-releases/releases/download/v2026.10.18/ea-monitor-local-closed.zip) | 本机 / 局域网 |
 
 ## 安装后还要授权
 
@@ -19,4 +19,4 @@
 
 联系：QQ 3271663089 · Telegram [@ton66888](https://t.me/ton66888)
 
-源码仓库为私有，仅作者维护。
+源码仓库为私有，仅作者维护。安装后请立刻修改 `server/.env` 里的 `ADMIN_TOKEN`。
